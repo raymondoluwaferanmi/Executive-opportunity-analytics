@@ -1,5 +1,7 @@
 # Executive Opportunity Analytics & Dashboard | Power BI & Python
 
+![Dashboard Preview](dashboard_overview.png)
+
 ## 📌 Project Overview
 As part of the **Data Visualization Trainee Early Remote Internship at Excelerate**, this project demonstrates an end-to-end Business Intelligence workflow. It transforms raw, unstructured global opportunity datasets (over 5,700 records) into a production-grade, executive decision-making framework.
 
